@@ -1,5 +1,8 @@
 # Jump-King-Hitbox-to-Screens
 Hitbox2Screens is a basic tool built initially for python but adapted for C# which takes custom hitboxes for jump king and turns them into individual screens that can be used to help with texturing
+
+[Download the program here](https://github.com/Elisiah/Jump-King-Hitbox-to-Screens/releases/)
+
 ## Usage:
 1: Move the executable into the folder that contains your "level.png"
 
