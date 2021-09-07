@@ -12,7 +12,10 @@ Hitbox2Screens is a basic tool built initially for python but adapted for C# whi
 
 ## Troubleshooting:
 1: Will not work inside a folder that contains "#" at any point in the path name
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solution: Move your "level.png" file to a different firectory
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solution: Move your "level.png" file to a different directory
+
 2: Will not work if inside a folder such as onenote that is not a drive device on the computer
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Solution: Use C: or D: etc.
 
